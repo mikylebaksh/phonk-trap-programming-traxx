@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Playlist-informational?style=for-the-badge&logo=spotify" />
   </a>
 
-  <a href="https://open.spotify.com/playlist/5jhryYgpUkiA2aCPboGPPX?si=PDx7NUDATJ6DTSDlt8fHzg">
+  <a href="https://www.paypal.com/paypalme/mikylebaksh">
     <img src="https://img.shields.io/badge/-Donate-yellow?style=for-the-badge&logo=paypal" />
   </a>
 </div>
